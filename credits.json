@@ -1,0 +1,158 @@
+{
+  "quiz-01": {
+    "title": "6 écuries. 1 pilote.",
+    "category": "Quiz pilote",
+    "duration": "28,65 s",
+    "photos": [
+      {
+        "title": "File:Sebastian Vettel Ferrari SF15-T (21837011489).jpg",
+        "author": "nhayashida",
+        "page": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_Ferrari_SF15-T_(21837011489).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "use": "Introduction · 6 écuries"
+      },
+      {
+        "title": "File:Daniel Ricciardo Red Bull RB11 (21838043559).jpg",
+        "author": "nhayashida",
+        "page": "https://commons.wikimedia.org/wiki/File:Daniel_Ricciardo_Red_Bull_RB11_(21838043559).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "use": "Introduction · 1 pilote"
+      },
+      {
+        "title": "File:2012 Italian GP - Ferrari pit.jpg",
+        "author": "Francesco Crippa",
+        "page": "https://commons.wikimedia.org/wiki/File:2012_Italian_GP_-_Ferrari_pit.jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0/",
+        "use": "Introduction · À toi de le trouver"
+      },
+      {
+        "title": "File:Kimi Raikkonen, Sauber Petronas C20 (8968309513).jpg",
+        "author": "Peter Wright from United Kingdom",
+        "page": "https://commons.wikimedia.org/wiki/File:Kimi_Raikkonen,_Sauber_Petronas_C20_(8968309513).jpg",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "use": "Sauber · 2001"
+      },
+      {
+        "title": "File:Raikkonen (McLaren) qualifying at USGP 2005.jpg",
+        "author": "Dan Smith",
+        "page": "https://commons.wikimedia.org/wiki/File:Raikkonen_(McLaren)_qualifying_at_USGP_2005.jpg",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "use": "McLaren · 2002–2006"
+      },
+      {
+        "title": "File:Kimi Raikkonen 2007 Belgium.jpg",
+        "author": "Thom May",
+        "page": "https://commons.wikimedia.org/wiki/File:Kimi_Raikkonen_2007_Belgium.jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "Ferrari · 2007–2009"
+      },
+      {
+        "title": "File:2012 Canadian GP - Kimi Raikkonen Lotus E20 01.jpg",
+        "author": "Nic Redhead",
+        "page": "https://commons.wikimedia.org/wiki/File:2012_Canadian_GP_-_Kimi_Raikkonen_Lotus_E20_01.jpg",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "use": "Lotus · 2012–2013"
+      },
+      {
+        "title": "File:2018 Spanish Grand Prix Raikkonen (2).jpg",
+        "author": "Anyul Rivas",
+        "page": "https://commons.wikimedia.org/wiki/File:2018_Spanish_Grand_Prix_Raikkonen_(2).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "Ferrari · 2014–2018"
+      },
+      {
+        "title": "File:Kimi Raikkonen, Alfa Romeo-Ferrari C38, 2019 Italian Grand Prix, Monza, 6th September (48782017171).jpg",
+        "author": "Interceptor73",
+        "page": "https://commons.wikimedia.org/wiki/File:Kimi_Raikkonen,_Alfa_Romeo-Ferrari_C38,_2019_Italian_Grand_Prix,_Monza,_6th_September_(48782017171).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "Alfa Romeo · 2019–2021 et décompte"
+      },
+      {
+        "title": "File:Kimi Raikkonen 2017 Malaysia 1.jpg",
+        "author": "Morio",
+        "page": "https://commons.wikimedia.org/wiki/File:Kimi_Raikkonen_2017_Malaysia_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "use": "Révélation · Kimi Räikkönen"
+      }
+    ],
+    "logos": [
+      {
+        "id": "sauber",
+        "source_page": "https://freebiesupply.com/logos/red-bull-sauber-petronas-logo/"
+      },
+      {
+        "id": "mclaren",
+        "source_page": "https://logos-download.com/brands/mclaren-automotive"
+      },
+      {
+        "id": "ferrari",
+        "source_page": "https://seeklogo.com/vector-logo/53763/ferrari-emblem"
+      },
+      {
+        "id": "lotus",
+        "source_page": "https://worldvectorlogo.com/logo/lotus-f1-team-logo"
+      },
+      {
+        "id": "alfa",
+        "source_page": "https://teamcolorcodes.com/alfa-romeo-racing-color-codes/"
+      }
+    ]
+  },
+  "undercut-01": {
+    "title": "Gagner sans dépasser.",
+    "category": "Stratégie",
+    "duration": "41,75 s",
+    "photos": [
+      {
+        "title": "File:2012 Italian GP - Ferrari pit.jpg",
+        "author": "Francesco Crippa",
+        "page": "https://commons.wikimedia.org/wiki/File:2012_Italian_GP_-_Ferrari_pit.jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "Introduction et séquences aux stands"
+      },
+      {
+        "title": "File:Sebastian Vettel in his Ferrari SF15-T (21256804649).jpg",
+        "author": "pedrik",
+        "page": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_in_his_Ferrari_SF15-T_(21256804649).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "Le rival et ses pneus usés"
+      },
+      {
+        "title": "File:Daniel Ricciardo Red Bull RB11 (21838043559).jpg",
+        "author": "nhayashida",
+        "page": "https://commons.wikimedia.org/wiki/File:Daniel_Ricciardo_Red_Bull_RB11_(21838043559).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "Votre voiture, le gain de rythme et le bilan"
+      },
+      {
+        "title": "File:Red Bull duo 2015 Malaysia Race 1.jpg",
+        "author": "Morio",
+        "page": "https://commons.wikimedia.org/wiki/File:Red_Bull_duo_2015_Malaysia_Race_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "Conclusion · le risque de trafic"
+      },
+      {
+        "title": "File:Red Bull Racing Pit Stop Practice.webm",
+        "author": "ProtoplasmaKid",
+        "page": "https://commons.wikimedia.org/wiki/File:Red_Bull_Racing_Pit_Stop_Practice.webm",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "Premier arrêt · extrait d’entraînement aux stands, Mexique 2015"
+      }
+    ]
+  }
+}
