@@ -151,7 +151,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:Red_Bull_Racing_Pit_Stop_Practice.webm",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "use": "Toutes versions · Premier arrêt · extrait d’entraînement aux stands, Mexique 2015"
+        "use": "Versions V14–V17 · premier arrêt, archive d’entraînement au Mexique en 2015"
       },
       {
         "title": "File:FIA F1 Austria 2023 Nr. 16 (2).jpg",
@@ -191,7 +191,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(3).jpg",
         "license": "CC BY 2.0",
         "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "use": "V17 · tour décisif et gain intermédiaire · 16,25–23,01 s"
+        "use": "Versions V17–V18 · gain de rythme et révélation du nom"
       },
       {
         "title": "File:2024 Spanish Grand Prix (53810018902).jpg",
@@ -208,6 +208,30 @@
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "use": "V17 · conditions et risques · 37,29–41,75 s"
+      },
+      {
+        "title": "Ferrari 412 T2 on the hillclimb at FOS2019",
+        "author": "Michael Hutchinson",
+        "page": "https://unsplash.com/photos/a-man-driving-a-red-race-car-down-a-road-xa_66CroBzQ",
+        "license": "Unsplash License",
+        "license_url": "https://unsplash.com/license",
+        "use": "V18 · avant les arrêts, pneus usés et conditions ; F1 historique à Goodwood, 2019"
+      },
+      {
+        "title": "Red Bull Formula 1 at Montmeló",
+        "author": "Martí Sierra",
+        "page": "https://unsplash.com/photos/a-red-and-yellow-race-car-driving-down-a-race-track-8zs2Co614PQ",
+        "license": "Unsplash License",
+        "license_url": "https://unsplash.com/license",
+        "use": "V18 · deux arrêts et tour décisif ; illustration photographique à Montmeló"
+      },
+      {
+        "title": "Ferrari F1 Wheel",
+        "author": "Niklas Du",
+        "page": "https://unsplash.com/photos/red-and-black-formula-1-JSCIpyJjngI",
+        "license": "Unsplash License",
+        "license_url": "https://unsplash.com/license",
+        "use": "V18 · pneus et bilan ; photographie de musée, MOTORWORLD Köln–Rheinland"
       }
     ]
   }
