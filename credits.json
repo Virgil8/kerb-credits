@@ -119,7 +119,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:2012_Italian_GP_-_Ferrari_pit.jpg",
         "license": "CC BY 2.0",
         "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "use": "Introduction et séquences aux stands"
+        "use": "Toutes versions · Introduction et séquences aux stands"
       },
       {
         "title": "File:Sebastian Vettel in his Ferrari SF15-T (21256804649).jpg",
@@ -127,7 +127,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_in_his_Ferrari_SF15-T_(21256804649).jpg",
         "license": "CC BY 2.0",
         "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "use": "Le rival et ses pneus usés"
+        "use": "Versions V14–V16 · Le rival et ses pneus usés"
       },
       {
         "title": "File:Daniel Ricciardo Red Bull RB11 (21838043559).jpg",
@@ -135,7 +135,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:Daniel_Ricciardo_Red_Bull_RB11_(21838043559).jpg",
         "license": "CC BY 2.0",
         "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "use": "Votre voiture, le gain de rythme et le bilan"
+        "use": "Versions V14–V16 · Votre voiture, le gain de rythme et le bilan"
       },
       {
         "title": "File:Red Bull duo 2015 Malaysia Race 1.jpg",
@@ -143,7 +143,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:Red_Bull_duo_2015_Malaysia_Race_1.jpg",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "use": "Conclusion · le risque de trafic"
+        "use": "Versions V14–V16 · Conclusion · le risque de trafic"
       },
       {
         "title": "File:Red Bull Racing Pit Stop Practice.webm",
@@ -151,7 +151,63 @@
         "page": "https://commons.wikimedia.org/wiki/File:Red_Bull_Racing_Pit_Stop_Practice.webm",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "use": "Premier arrêt · extrait d’entraînement aux stands, Mexique 2015"
+        "use": "Toutes versions · Premier arrêt · extrait d’entraînement aux stands, Mexique 2015"
+      },
+      {
+        "title": "File:FIA F1 Austria 2023 Nr. 16 (2).jpg",
+        "author": "Lukas Raich",
+        "page": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2023_Nr._16_(2).jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "V17 · rival avant les arrêts · 4,00–5,86 s"
+      },
+      {
+        "title": "File:2024 Spanish Grand Prix (53810018802).jpg",
+        "author": "jtstewart",
+        "page": "https://commons.wikimedia.org/wiki/File:2024_Spanish_Grand_Prix_(53810018802).jpg",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "use": "V17 · les deux arrêts à faire · 5,86–8,10 s"
+      },
+      {
+        "title": "File:2024-08-24 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3456 by Stepro.jpg",
+        "author": "Steffen Prößdorf",
+        "page": "https://commons.wikimedia.org/wiki/File:2024-08-24_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3456_by_Stepro.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "V17 · pneus neufs et nom de la stratégie · 11,90–14,13 s et 33,89–37,29 s"
+      },
+      {
+        "title": "File:SF-24 at the Japanese GP.jpg",
+        "author": "Cineyas",
+        "page": "https://commons.wikimedia.org/wiki/File:SF-24_at_the_Japanese_GP.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "V17 · le rival reste en piste · 14,13–16,25 s"
+      },
+      {
+        "title": "File:2024 British Grand Prix, Verstappen (3).jpg",
+        "author": "Jen Ross",
+        "page": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(3).jpg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "use": "V17 · tour décisif et gain intermédiaire · 16,25–23,01 s"
+      },
+      {
+        "title": "File:2024 Spanish Grand Prix (53810018902).jpg",
+        "author": "jtstewart",
+        "page": "https://commons.wikimedia.org/wiki/File:2024_Spanish_Grand_Prix_(53810018902).jpg",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "use": "V17 · bilan des deux arrêts · 30,45–33,89 s"
+      },
+      {
+        "title": "File:2024 British GP qualifying - Norris.jpg",
+        "author": "5225C",
+        "page": "https://commons.wikimedia.org/wiki/File:2024_British_GP_qualifying_-_Norris.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "V17 · conditions et risques · 37,29–41,75 s"
       }
     ]
   }
