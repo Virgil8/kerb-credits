@@ -159,7 +159,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2023_Nr._16_(2).jpg",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "use": "V17 · rival avant les arrêts · 4,00–5,86 s"
+        "use": "V17 · avant les arrêts ; V19 · rival en piste, Charles Leclerc au GP d’Autriche 2023"
       },
       {
         "title": "File:2024 Spanish Grand Prix (53810018802).jpg",
@@ -167,7 +167,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:2024_Spanish_Grand_Prix_(53810018802).jpg",
         "license": "CC BY-SA 2.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "use": "V17 · les deux arrêts à faire · 5,86–8,10 s"
+        "use": "V17 · deux arrêts ; V19 · tour décisif, McLaren au GP d’Espagne 2024"
       },
       {
         "title": "File:2024-08-24 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3456 by Stepro.jpg",
@@ -191,7 +191,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:2024_British_Grand_Prix,_Verstappen_(3).jpg",
         "license": "CC BY 2.0",
         "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "use": "Versions V17–V18 · gain de rythme et révélation du nom"
+        "use": "Versions V17–V19 · gain de rythme et révélation du nom"
       },
       {
         "title": "File:2024 Spanish Grand Prix (53810018902).jpg",
@@ -207,7 +207,7 @@
         "page": "https://commons.wikimedia.org/wiki/File:2024_British_GP_qualifying_-_Norris.jpg",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "use": "V17 · conditions et risques · 37,29–41,75 s"
+        "use": "V17 et V19 · conditions et risques, Lando Norris au GP de Grande-Bretagne 2024"
       },
       {
         "title": "Ferrari 412 T2 on the hillclimb at FOS2019",
@@ -215,15 +215,15 @@
         "page": "https://unsplash.com/photos/a-man-driving-a-red-race-car-down-a-road-xa_66CroBzQ",
         "license": "Unsplash License",
         "license_url": "https://unsplash.com/license",
-        "use": "V18 · avant les arrêts, pneus usés et conditions ; F1 historique à Goodwood, 2019"
+        "use": "V18 · avant les arrêts, pneus usés et conditions ; V19 · avant les arrêts ; Ferrari 412 T2 à Goodwood, 2019"
       },
       {
-        "title": "Red Bull Formula 1 at Montmeló",
+        "title": "Monoplace aux couleurs Red Bull à Montmeló",
         "author": "Martí Sierra",
         "page": "https://unsplash.com/photos/a-red-and-yellow-race-car-driving-down-a-race-track-8zs2Co614PQ",
         "license": "Unsplash License",
         "license_url": "https://unsplash.com/license",
-        "use": "V18 · deux arrêts et tour décisif ; illustration photographique à Montmeló"
+        "use": "V18 uniquement · source retirée de V19 ; catégorie du véhicule non confirmée"
       },
       {
         "title": "Ferrari F1 Wheel",
@@ -231,7 +231,15 @@
         "page": "https://unsplash.com/photos/red-and-black-formula-1-JSCIpyJjngI",
         "license": "Unsplash License",
         "license_url": "https://unsplash.com/license",
-        "use": "V18 · pneus et bilan ; photographie de musée, MOTORWORLD Köln–Rheinland"
+        "use": "Versions V18–V19 · pneus et bilan ; photographie de musée, MOTORWORLD Köln–Rheinland"
+      },
+      {
+        "title": "File:2024-08-24 Motorsport, Formel 1, Großer Preis der Niederlande 2024 STP 3412 by Stepro.jpg",
+        "author": "Steffen Prößdorf",
+        "page": "https://commons.wikimedia.org/wiki/File:2024-08-24_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3412_by_Stepro.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "use": "V19 · deux arrêts à faire · Charles Leclerc, Ferrari SF-24 au GP des Pays-Bas 2024"
       }
     ]
   }
